@@ -1,0 +1,37 @@
+div {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin: auto;
+    color: #EEEEEE;
+    max-width: 600px;
+  }
+
+  .ota {
+    background-color: #548CA8;
+  }
+
+  .o-meni {
+    background-color: #476072;
+  }
+
+  .kitara {
+    background-color: #334257;
+  }
+
+  .odbojka {
+    background-color: #253b58;
+  }
+
+  .brat {
+    background-color: #2b3742;
+  }
+
+  .zgodbe {
+    background-color: #334257;
+  }
+
+  img {
+    max-width: 600px;
+    padding: 0px;
+  }
